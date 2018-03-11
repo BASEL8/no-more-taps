@@ -1,0 +1,25 @@
+{
+    "sound_playList": {
+        "sc_url": ["/tracks/241319588", "/tracks/86922702",
+            "/playlists/174702755",
+            "/playlists/329289548",
+            "/tracks/344842488",
+            "/playlists/121935473", "/tracks/55597607",
+            "/playlists/399733883",
+            "/tracks/42001383",
+            "/playlists/351157777", "/tracks/187579649",
+            "/tracks/55611572"
+        ],
+        "spotify": [
+            "cyberjohan/playlist/4DZ1gdYwdYhLePbs9OIZNf", "legacysweden/playlist/5TkTomPbQuSNDxdlWg2fCx", "11123141971/playlist/6YOHAFJWnWr77EXblOkVsT", "lupita0330/playlist/5134HCp07ZQqlOYbBe50rb?si=iviX0hrmSRCgbAvRWeFtPw", "11123141971/playlist/4G7iTD58dhlu1vPaTjPKCB?si=BL46GJsTSYayK3A2Ji0FJA", "sonymusicentertainment/playlist/5rMgFNjAfU0zrw5Mau5lvE", "spotifycharts/playlist/37i9dQZEVXbMDoHDwVN2tF?si=vh07VBfBRri2rKUpurOCqg", "spotify/playlist/37i9dQZF1DWZ08W4ZQ3Rkv", "11123141971/playlist/35QS96Bf5IjRc91SFDzzyS?si=KcGqMlfJTlyJzJUi5elQSw"
+        ]
+    },
+    "youtube_playlist": {
+
+        "songs_url": ["gZxelqMA0Qo", "nYh-n7EOtMA", "s43sptuwkvA", "V4XymuyGORM", "iGk5fR-t5AU", "0K0_KtyVZ9Q", "fLexgOxsZu0", "NGLxoKOvzu4", "pRpeEdMmmQ0", "_P7S2lKif-A", "ZbZSe6N_BXs", "OPf0YbXqDm0", "UdHN824Zb_I", "JGwWNGJdvx8", "q31tGyBJhRY", "rYEDA3JcQqw", "3M_5oYU-IsU", "BQ0mxQXmLsk", "PMivT7MJ41M", "kJQP7kiw5Fk"]
+    },
+    "food": {
+        "foto_url": ["1.jpg", "2.jpg"],
+        "youtube_food_url": ["GoaZ1SZTOOE", "5oj_tT6pOOg", "GtVPOGbPSng", "iM_KMYulI_s", "lQFFkn_p2xw", "JZVWkjFGCBI"]
+    }
+}
